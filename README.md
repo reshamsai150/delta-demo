@@ -1,5 +1,5 @@
 # delta-demo
-# Teacher
+# delta Student
 Saipranathi
 # Student
 Delta Student.
